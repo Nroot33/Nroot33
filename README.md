@@ -1,13 +1,13 @@
 ### :sunglasses: Hi there, Nice to see you
 
-  ## Welcome to my page!
-  
-  # I'm Nroot, Front-end developer from Daejeoun, Republic of Korea 
-  
-  ## Thing I code with
-  
-  ![3472396708147854384_20190304094727147](https://user-images.githubusercontent.com/44187289/168232533-b9a7edab-f064-481f-8417-3998ea871ae4.PNG)
 
+  <strong> Welcome to my page! </strong>
+
+ ![3472396708147854384_20190304094727147](https://user-images.githubusercontent.com/44187289/168232533-b9a7edab-f064-481f-8417-3998ea871ae4.PNG)
+ 
+  I'm Nroot, Front-end developer from Daejeoun, Republic of Korea 
+  
+  Thing I code with
    ```javascript
    function Nroot() {
       var prononuns : "he" | "him"
