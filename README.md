@@ -1,9 +1,20 @@
-### :sunglasses: Hi there, Nice to see you
+<h1 align="center">Nroot</h1>
+<p align="center">
+  Frontend Engineer · SI System Developer<br/>
+  Daejeon, Republic of Korea
+</p>
 
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/44187289/168232533-b9a7edab-f064-481f-8417-3998ea871ae4.PNG"
+    width="420"
+    alt="profile banner"
+  />
+</p>
 
-  <strong> Welcome to my page! </strong>
-
- ![3472396708147854384_20190304094727147](https://user-images.githubusercontent.com/44187289/168232533-b9a7edab-f064-481f-8417-3998ea871ae4.PNG)
+<p align="center">
+  Building reliable systems where Web, Mobile, and real-world operations meet.
+</p>
  
 ### 👋 Hi, I'm Nroot
 
