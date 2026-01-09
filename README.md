@@ -1,9 +1,4 @@
-<h1 align="center">Nroot</h1>
-<p align="center">
-  Frontend Engineer · SI System Developer<br/>
-  Daejeon, Republic of Korea
-</p>
-
+<h1 align="center">Nroot / Frontend Engineer · System-oriented SI Developer</h1>
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/44187289/168232533-b9a7edab-f064-481f-8417-3998ea871ae4.PNG"
@@ -15,7 +10,15 @@
 <p align="center">
   Building reliable systems where Web, Mobile, and real-world operations meet.
 </p>
- 
+
+<p align="center">
+  <a href="https://right-handspring-e62.notion.site/151cedfe2eaf80f3bfe3ee2e60fe51d5?pvs=74" target="_blank">
+    <img src="https://img.shields.io/badge/📂 Portfolio-View_on_Notion-3D9970?style=flat-square&logo=notion&logoColor=white" alt="Portfolio Link" />
+  </a>
+</p>
+
+---
+
 ### 👋 Hi, I'm Nroot
 
 Front-end Developer based in Daejeon, Republic of Korea.  
