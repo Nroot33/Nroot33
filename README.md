@@ -12,8 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://right-handspring-e62.notion.site/151cedfe2eaf80f3bfe3ee2e60fe51d5?pvs=74" target="_blank">
-    <img src="https://img.shields.io/badge/📂 Portfolio-View_on_Notion-3D9970?style=flat-square&logo=notion&logoColor=white" alt="Portfolio Link" />
+  Check out my Portfolio on Notion 👉
+  <a href="https://right-handspring-e62.notion.site/151cedfe2eaf80f3bfe3ee2e60fe51d5?pvs=74" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/📂%20Portfolio-View%20on%20Notion-3D9970?style=flat-square&logo=notion&logoColor=white" alt="Portfolio Link" />
   </a>
 </p>
 
