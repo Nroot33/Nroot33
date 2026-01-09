@@ -29,21 +29,25 @@ I focus on building reliable, maintainable user interfaces for real-world SI sys
 - **Spring Boot**
 - **Tomcat**
 - **MariaDB**
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
-<img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img alt="Tomcat" src="https://img.shields.io/badge/-Apache_Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black" />
-<img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="Tomcat" src="https://img.shields.io/badge/-Apache_Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black" />
+  <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+</p>
 
 #### Cloud / Infra / IoT / Computer Vision
 - **AWS**
 - **MQTT / MQTTX**
 - **TensorFlow Lite**
 - **OpenCV**
-<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img alt="MQTT" src="https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
-<img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img alt="TensorFlow Lite" src="https://img.shields.io/badge/-TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<p>
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="MQTT" src="https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img alt="TensorFlow Lite" src="https://img.shields.io/badge/-TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+</p>
 
 #### Dev Tools & Collaboration
 - **Visual Studio Code**
@@ -52,12 +56,14 @@ I focus on building reliable, maintainable user interfaces for real-world SI sys
 - **GitHub**
 - **Slack**
 - **Notion**
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
-<img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
-<img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />  
+  <img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
+  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+</p>
 
 #### Documentation / Office
 - **Excel**, **Word**, **PowerPoint**
