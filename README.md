@@ -1,11 +1,8 @@
 <h1 align="center">Nroot / Frontend Engineer · System-oriented SI Developer</h1>
 <p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/44187289/168232533-b9a7edab-f064-481f-8417-3998ea871ae4.PNG"
-    width="420"
-    alt="profile banner"
-  />
+  <img width="1024" height="1024" alt="KakaoTalk_20260205_112118616" src="https://github.com/user-attachments/assets/3dbb0d5f-e0a0-41a8-8fb3-c7d34b5f0686" />
 </p>
+
 
 <p align="center">
   Building reliable systems where Web, Mobile, and real-world operations meet.
