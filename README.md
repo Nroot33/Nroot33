@@ -1,6 +1,6 @@
 <h1 align="center">Nroot / Frontend Engineer · System-oriented SI Developer</h1>
 <p align="center">
-  <img width="1024" height="1024" alt="KakaoTalk_20260205_112118616" src="https://github.com/user-attachments/assets/3dbb0d5f-e0a0-41a8-8fb3-c7d34b5f0686" />
+  <img width="480" height="480" alt="KakaoTalk_20260205_112118616" src="https://github.com/user-attachments/assets/3dbb0d5f-e0a0-41a8-8fb3-c7d34b5f0686" />
 </p>
 
 
