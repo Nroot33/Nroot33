@@ -1,6 +1,8 @@
 <h1 align="center">Nroot / Frontend Engineer · System-oriented SI Developer</h1>
 <p align="center">
-  <img width="480" height="480" alt="KakaoTalk_20260205_112118616" src="https://github.com/user-attachments/assets/3dbb0d5f-e0a0-41a8-8fb3-c7d34b5f0686" />
+  
+  <img width="480" height="480" alt="e37cffc8-cc9e-49fd-a1b1-344466327e52 (1)" src="https://github.com/user-attachments/assets/e7d3e883-80f0-465d-a424-99ad5f49437d" />
+
 </p>
 
 
@@ -19,10 +21,71 @@
 
 ### 👋 Hi, I'm Nroot
 
-Front-end Developer based in Daejeon, Republic of Korea.  
-I focus on building reliable, maintainable user interfaces for real-world SI systems.
+SI Developer focused on building **end-to-end operational systems**  
+—from real-time data collection to monitoring, control, and UI delivery.
+
+I specialize in:
+
+- Real-time data pipelines (MQTT / Sensor / API)
+- Web-based monitoring dashboards
+- Flutter-based field operation apps
+- System integration across Web, Mobile, and IoT
+
+## 🧠 What I Actually Do
+
+✔ Design **data flow architecture** (Sensor → Gateway → Server → UI)  
+✔ Build **real-time monitoring systems**  
+✔ Implement **control & command systems (ACK / Retry / Timeout)**  
+✔ Develop **field-ready mobile apps (Flutter)**  
+✔ Structure **maintainable front-end architecture**
 
 ---
+
+## 🚀 Key Project Experience
+
+### 🔌 Live-line Vehicle Safety Management System
+- Built real-time monitoring system using **MQTT-based streaming**
+- Processed AML sensor data (battery, load, distance)
+- Designed command-response structure for remote control
+- Developed Web dashboard + Flutter field app
+
+👉 Result:
+- Real-time visibility of vehicle safety status
+- Improved operational response speed
+
+---
+
+### 🧠 AI-TBM Worker Safety Platform
+- Designed digital TBM (Toolbox Meeting) system
+- Integrated bio-signal + gas sensor data
+- Implemented risk detection logic based on thresholds
+- Built monitoring + reporting system
+
+👉 Result:
+- Digitized safety process
+- Enabled historical tracking & risk analysis
+
+---
+
+### 🎮 Interactive Education / Exhibition Systems
+- Developed real-time interactive services
+- Built content-driven UI/UX systems
+- Delivered stable operation systems for public environments
+
+---
+
+## 🎨 Additional Experience
+
+### 🏛 National Science Museum Interactive System
+- Developed interactive exhibition services
+- Built real-time responsive UI for public installations
+
+### 🎮 Career Education Problem-Solving Game
+- Designed and implemented curriculum-linked educational game
+- Focused on user engagement and scenario-based interaction
+
+---
+
 ### 🛠 Tech Stack
 
 #### Frontend / App
@@ -89,16 +152,14 @@ I focus on building reliable, maintainable user interfaces for real-world SI sys
 
 ---
 
-### 🚀 Experience Highlights
-- Developed interactive exhibition & operation services for the National Science Museum of Korea
-- Built curriculum-linked social problem-solving games for career education
-- Developed a live-line vehicle safety management system (Web + Mobile)
-
----
-
 ### 🌱 Currently
 - Improving front-end architecture and code quality
 - Working on production-level Web & Mobile SI services
 
 ---
+
+## 💬 Philosophy
+
+> Good UI is not just about screens.  
+> It is about connecting systems, data, and real-world operations reliably.<img width="1254" height="1254" alt="e37cffc8-cc9e-49fd-a1b1-344466327e52 (1)" src="https://github.com/user-attachments/assets/a1a4ebbd-98a8-49c2-8e2d-8b7dde36d21b" />
 
