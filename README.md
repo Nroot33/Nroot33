@@ -161,5 +161,5 @@ I specialize in:
 ## 💬 Philosophy
 
 > Good UI is not just about screens.  
-> It is about connecting systems, data, and real-world operations reliably.<img width="1254" height="1254" alt="e37cffc8-cc9e-49fd-a1b1-344466327e52 (1)" src="https://github.com/user-attachments/assets/a1a4ebbd-98a8-49c2-8e2d-8b7dde36d21b" />
+> It is about connecting systems, data, and real-world operations reliably.
 
